@@ -165,5 +165,5 @@ cython_debug/
 # Data folder
 data/
 
-# Model folder
-saved_models/
+# Model archvies
+*.pth
