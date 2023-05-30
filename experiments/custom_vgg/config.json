@@ -1,11 +1,11 @@
 {
-  "model_name": "alexnet",
+  "model_name": "custom_vgg",
   "model_params": {},
   "criterion_name": "mse",
   "criterion_params": {},
   "optimizer_name": "adam",
   "optimizer_params": {
-    "lr": 0.001,
+    "lr": 0.01,
     "weight_decay": 0.0005
   },
   "scheduler_name": "multi_step_lr",
